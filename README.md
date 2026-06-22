@@ -1,2 +1,7 @@
-# The-Legend-of-Zelda-Tears-of-the-Kingdom
-塞尔达王国之泪游戏的魅力所在
+# The Legend of Zelda: Tears of the Kingdom
+
+这是一篇关于《塞尔达传说：王国之泪》的游戏设计与商业分析文章，重点拆解玩法机制、关卡结构、用户体验、技术实现、商业模式和市场表现。
+
+## 文章
+
+- [《塞尔达传说：王国之泪》深度拆解：从系统设计到商业表现的开放世界范式升级](analysis.md)
