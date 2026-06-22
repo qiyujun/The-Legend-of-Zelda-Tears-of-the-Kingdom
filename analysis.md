@@ -105,11 +105,3 @@
 它的短板也很明确：部分地下内容重复度较高；开放叙事会影响剧情节奏；建造和背包操作在中后期会产生摩擦；复用地表地图对部分玩家的新鲜感有限；Switch 硬件在分辨率和帧率层面也不可避免地留下妥协。
 
 但从行业视角看，这些问题并未动摇它的核心地位。《王国之泪》是一款把设计野心、技术工程、品牌资产和商业回报高度统一的作品。它不是所有开放世界游戏都能复制的模板，因为其成立依赖任天堂长期积累的系统设计能力、打磨周期和玩家信任；但它确实为行业提供了一个清晰方向：开放世界的下一阶段，不只是更大、更密、更写实，而是更可交互、更可推导、更能容纳玩家自己的想象力。
-
-## 参考资料
-
-- Nintendo IR：Top Selling Title Sales Units，截至 2026 年 3 月 31 日的 Switch 软件销量数据。https://www.nintendo.co.jp/ir/en/finance/software/index.html
-- Nintendo 官方开发者访谈：Ask the Developer Vol. 9, The Legend of Zelda: Tears of the Kingdom。https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-9-the-legend-of-zelda-tears-of-the-kingdom-part-1/
-- Nintendo 官方游戏页面：The Legend of Zelda: Tears of the Kingdom。https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/
-- Nintendo / Business Wire：本作发售前三天全球销量超过 1,000 万份的新闻稿。https://www.businesswire.com/news/home/20230517005361/en/Nintendos-The-Legend-of-Zelda-Tears-of-the-Kingdom-Sells-Over-10-Million-Copies-in-First-Three-Days-Becoming-the-Fastest-selling-Game-in-Series
-- Metacritic：《The Legend of Zelda: Tears of the Kingdom》媒体评分页面。https://www.metacritic.com/game/the-legend-of-zelda-tears-of-the-kingdom/
